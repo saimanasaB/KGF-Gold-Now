@@ -1,2 +1,3 @@
-# KGF-Gold-Now
-Gold spot rates are decided twice a day based on supply and demand in gold market. Fractional change in gold price may result in huge P&L for investors and govt banks. Checking rise and decline in the daily gold rates, help investors to decide when to buy commodity.
+# KGF- Currency Converter/ Gold-Now
+KGF   - HTML5,  CSS3, API - Connection  
+Gold rate and currency converter with API connection. Checking rise and decline in the daily gold rates, help investors to decide when to buy commodity. This application help users to check gold price regularly and converting currency upto date any time anywhere.
